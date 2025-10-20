@@ -41,9 +41,11 @@
         <mxCell id="Womy6uRPmFxDwTwF91oK-6" value="江式全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="230" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Womy6uRPmFxDwTwF91oK-20" value="刘金莲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="230" width="90" height="50" as="geometry" />
-        </mxCell>
+        <UserObject label="胡显华" link="https://github.com/toppemonkey/processing_folder/blob/main/家族结构图/胡显华家族.drawio" id="Womy6uRPmFxDwTwF91oK-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="470" y="230" width="90" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>

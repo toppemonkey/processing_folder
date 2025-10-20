@@ -16,9 +16,11 @@
         <mxCell id="NAv4dgfuiUwC2lmp40XU-1" value="张哲祥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240.0000000000001" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NAv4dgfuiUwC2lmp40XU-2" value="江琼" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="240.0000000000001" width="80" height="40" as="geometry" />
-        </mxCell>
+        <UserObject label="江琼" link="https://github.com/toppemonkey/processing_folder/blob/main/家族结构图/江氏家族图.drawio" id="NAv4dgfuiUwC2lmp40XU-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="350" y="240.0000000000001" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="NAv4dgfuiUwC2lmp40XU-5" value="张平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="360.0000000000001" width="80" height="40" as="geometry" />
         </mxCell>

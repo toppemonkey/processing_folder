@@ -40,34 +40,37 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Womy6uRPmFxDwTwF91oK-61" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-23" target="Womy6uRPmFxDwTwF91oK-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Womy6uRPmFxDwTwF91oK-23" value="江铃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="-40" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Womy6uRPmFxDwTwF91oK-59" value="夫妻" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-25" target="Womy6uRPmFxDwTwF91oK-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Womy6uRPmFxDwTwF91oK-25" value="江祥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Womy6uRPmFxDwTwF91oK-56" value="夫妻" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-26" target="Womy6uRPmFxDwTwF91oK-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Womy6uRPmFxDwTwF91oK-26" value="江洪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="670" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Womy6uRPmFxDwTwF91oK-54" value="夫妻" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-27" target="Womy6uRPmFxDwTwF91oK-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="江琼" id="Womy6uRPmFxDwTwF91oK-27">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="200" y="360" width="80" height="40" as="geometry" />
+            <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Womy6uRPmFxDwTwF91oK-34" value="王光莲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="70" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Womy6uRPmFxDwTwF91oK-38" value="张哲祥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="310" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Womy6uRPmFxDwTwF91oK-41" value="夫妻" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-39" target="Womy6uRPmFxDwTwF91oK-40">
           <mxGeometry relative="1" as="geometry" />
@@ -89,14 +92,17 @@
         </mxCell>
         <UserObject label="杨俊容" link="https://github.com/toppemonkey/processing_folder/blob/main/家族结构图/杨俊容家族图.drawio" id="Womy6uRPmFxDwTwF91oK-55">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="780" y="360" width="80" height="40" as="geometry" />
+            <mxGeometry x="780" y="320" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="彭德英" id="Womy6uRPmFxDwTwF91oK-58">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="550" y="360" width="80" height="40" as="geometry" />
+            <mxGeometry x="550" y="320" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Womy6uRPmFxDwTwF91oK-60" value="江青贤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

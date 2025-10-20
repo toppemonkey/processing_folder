@@ -49,14 +49,26 @@
         <mxCell id="Womy6uRPmFxDwTwF91oK-59" value="夫妻" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-25" target="Womy6uRPmFxDwTwF91oK-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Womy6uRPmFxDwTwF91oK-66" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-25" target="Womy6uRPmFxDwTwF91oK-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Womy6uRPmFxDwTwF91oK-67" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-25" target="Womy6uRPmFxDwTwF91oK-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Womy6uRPmFxDwTwF91oK-25" value="江祥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Womy6uRPmFxDwTwF91oK-56" value="夫妻" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-26" target="Womy6uRPmFxDwTwF91oK-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Womy6uRPmFxDwTwF91oK-70" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-26" target="Womy6uRPmFxDwTwF91oK-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Womy6uRPmFxDwTwF91oK-71" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-26" target="Womy6uRPmFxDwTwF91oK-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Womy6uRPmFxDwTwF91oK-26" value="江洪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="690" y="319.09" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Womy6uRPmFxDwTwF91oK-54" value="夫妻" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-27" target="Womy6uRPmFxDwTwF91oK-38">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +104,7 @@
         </mxCell>
         <UserObject label="杨俊容" link="https://github.com/toppemonkey/processing_folder/blob/main/家族结构图/杨俊容家族图.drawio" id="Womy6uRPmFxDwTwF91oK-55">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="780" y="320" width="80" height="40" as="geometry" />
+            <mxGeometry x="800" y="319.09" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="彭德英" id="Womy6uRPmFxDwTwF91oK-58">
@@ -102,6 +114,25 @@
         </UserObject>
         <mxCell id="Womy6uRPmFxDwTwF91oK-60" value="江青贤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="江霞" id="Womy6uRPmFxDwTwF91oK-64">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="390" y="440" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="江媛媛" id="Womy6uRPmFxDwTwF91oK-65">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="500" y="440" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Womy6uRPmFxDwTwF91oK-68" value="江建军" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="439.09" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Womy6uRPmFxDwTwF91oK-69" value="江渝堃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="439.09" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Womy6uRPmFxDwTwF91oK-73" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-68" target="Womy6uRPmFxDwTwF91oK-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

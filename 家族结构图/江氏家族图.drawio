@@ -109,9 +109,6 @@
             <mxGeometry x="250" y="349.09" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="cm6kAMwlJwwxSwBQSsJV-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Womy6uRPmFxDwTwF91oK-58" target="Womy6uRPmFxDwTwF91oK-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <UserObject label="彭德英" id="Womy6uRPmFxDwTwF91oK-58">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry y="349.09" width="80" height="40" as="geometry" />
